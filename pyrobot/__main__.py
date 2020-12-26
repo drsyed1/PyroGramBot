@@ -40,6 +40,7 @@ user_client = pyrogram.Client(
 
 
 def main():
+    with user_client:
         while True:
             print("[INFO] starting to check uptime..")
             edit_text = f"@{update_channel} Bot's Uptime Status.(Updated every 15 mins)\n\n"
@@ -72,4 +73,4 @@ def main():
             time.sleep(15 * 60)
 
 
-main() 
+main()
