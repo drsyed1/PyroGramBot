@@ -29,7 +29,7 @@ import pyrogram
     
     
 user_session_string = "1BVtsOHwBuwqrsinlWxs5au0hdAmI3kcYtpy5BK97xaZda6EDkiEIA90r0bnjM6A6yVjxfBRKDfzkifyOSIccS5MqoiCNPD_3cb1b8Ox4htuyKpOtSZpbtxyO6iM2k73uUMEBzd4f1eu9mqufc1nH2MkMjo_F4XAGTnyNwZ1U876CX9yYTr0sM0bRMCQ9nz8U_00wJwbINrCtTJwhckVqiVEzy7FjmKF2swH5wJw89VgXDGjZ53kC6j2GceYeuMhdXr1xsM557XWjznTWsvVUoKG4MF2jM0XYwOwnfJmqLi5Z3uUUggXnT2OGjvi9wjB-P-dYne5JbYMcxmRP28mq9oP4DDOYmso="
-bots = ["@WhiteEyeRenameBot", "@bot2"]
+bots = ["WhiteEyeRenameBot", "@bot2"]
 bot_owner = ("@Mr_StarLords")
 update_channel = ("-1001484903966")
 api_id = ("1715074")
