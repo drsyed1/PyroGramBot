@@ -67,7 +67,7 @@ def main():
 
             edit_text += f"__last checked on \n{str(utc_now)} UTC\n{ist_now} IST__"
 
-            user_client.edit_message_text(update_channel, 
+            user_client.edit_message_text(update_channel, status_message_id,
                                          edit_text)
             print(f"[INFO] everything done! sleeping for 15 mins...")
 
