@@ -32,7 +32,7 @@ if __name__ == "__main__":
     
     
 user_session_string = os.environ.get("1BVtsOHwBuwqrsinlWxs5au0hdAmI3kcYtpy5BK97xaZda6EDkiEIA90r0bnjM6A6yVjxfBRKDfzkifyOSIccS5MqoiCNPD_3cb1b8Ox4htuyKpOtSZpbtxyO6iM2k73uUMEBzd4f1eu9mqufc1nH2MkMjo_F4XAGTnyNwZ1U876CX9yYTr0sM0bRMCQ9nz8U_00wJwbINrCtTJwhckVqiVEzy7FjmKF2swH5wJw89VgXDGjZ53kC6j2GceYeuMhdXr1xsM557XWjznTWsvVUoKG4MF2jM0XYwOwnfJmqLi5Z3uUUggXnT2OGjvi9wjB-P-dYne5JbYMcxmRP28mq9oP4DDOYmso=")
-bots = [i.strip() for i in os.environ.get('@WhiteEyeRenameBot'), ('@WhiteEyeUrlUploaderBot'), ('@WhiteEyeYouTubeBot'), ('@WhiteEyeDeleteAllBot'), ('@WhiteEyeCompressorBot'), ('@Miss_ArantxaBot'), ('@WhiteEyeSubtitleBot'), ('@WhiteEyeLinkToFileBot'), ('@WhiteEyeGDriveBot'), ('@WhiteEyeTelegraphBot'), ('@WhiteEyeForceSubscriberBot'), ('@WhiteEyeUltraTonBot'), ('@WhiteEyeTagRemoverBot')]
+bots = os.environ.get('@WhiteEyeRenameBot'), ('@WhiteEyeUrlUploaderBot'), ('@WhiteEyeYouTubeBot'), ('@WhiteEyeDeleteAllBot'), ('@WhiteEyeCompressorBot'), ('@Miss_ArantxaBot'), ('@WhiteEyeSubtitleBot'), ('@WhiteEyeLinkToFileBot'), ('@WhiteEyeGDriveBot'), ('@WhiteEyeTelegraphBot'), ('@WhiteEyeForceSubscriberBot'), ('@WhiteEyeUltraTonBot'), ('@WhiteEyeTagRemoverBot')
 bot_owner = os.environ.get("@Mr_StarLords")
 update_channel = os.environ.get("-1001484903966")
 status_message_id = int(os.environ.get("status_message_id"))
