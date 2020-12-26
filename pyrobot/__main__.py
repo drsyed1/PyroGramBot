@@ -32,7 +32,7 @@ user_session_string = os.environ.get("1BVtsOHwBuwqrsinlWxs5au0hdAmI3kcYtpy5BK97x
 bots = os.environ.get('@WhiteEyeRenameBot'), ('@WhiteEyeUrlUploaderBot'), ('@WhiteEyeYouTubeBot'), ('@WhiteEyeDeleteAllBot'), ('@WhiteEyeCompressorBot'), ('@Miss_ArantxaBot'), ('@WhiteEyeSubtitleBot'), ('@WhiteEyeLinkToFileBot'), ('@WhiteEyeGDriveBot'), ('@WhiteEyeTelegraphBot'), ('@WhiteEyeForceSubscriberBot'), ('@WhiteEyeUltraTonBot'), ('@WhiteEyeTagRemoverBot')
 bot_owner = os.environ.get("@Mr_StarLords")
 update_channel = os.environ.get("-1001484903966")
-status_message_id = int(os.environ.get("status_message_id"))
+status_message_id = int(os.environ.get("926836199"))
 api_id = int(os.environ.get("1715074"))
 api_hash = os.environ.get("0c8fb6a43409019900aa98f439eceec4")
 
