@@ -11,7 +11,7 @@ user_session_string = "BQCQX5yd3ipFkANBGiquKBfn851U9-i_rl9By2pDVU59RdgBayy8-sX5a
 bots = ["WhiteEyeRenameBot", "WhiteEyeURLUploaderBot", "WhiteEyeTelegraphBot", "WhiteEyeLinkToFileBot", "WhiteEyeSubtitleBot", "WhiteEyeYouTubeBot", "WhiteEyeForceSubscriberBot", "whiteeyegdrivebot", "WhiteEyeTagRemoverBot", "WhiteEyeUltraTonBot", "WhiteEyeDeleteAllBot", "WhiteEyeCompressorBot", "Miss_ArantxaBot"]
 bot_owner = ("@Mr_StarLords")
 update_channel = (-1001484903966)
-status_message_id = (235)
+status_message_id = (253)
 api_id = ("2412622")
 api_hash = ("fa25ca6c7d6723ea717eee08e6af6565")
 
